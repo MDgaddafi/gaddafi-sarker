@@ -13,11 +13,21 @@ body {
     background: #FD6E0A;
     border: 0;
     font-size: 20px;
-    font-style: normal;
     font-weight: 700;
     color: white;
     padding: 15px 35px;
 
+}
+
+.btn-primary-two {
+    font-size: 20px;
+    font-weight: 700;
+    color: #FD6E0A;
+    width: 160px;
+    height: 64px;
+    border-radius: 5px;
+    border: 1px solid #FD6E0A;
+    background: #FFF8F3;
 }
 
 #buttonbd {
@@ -113,7 +123,7 @@ nav a {
 
 /*  main section style */
 main {
-    max-width: 1140px;
+    max-width: 1200px;
     margin: 0 auto;
 }
 
@@ -302,11 +312,12 @@ textarea {
     height: 40px;
 }
 
-.gaddafi-bd{
+.gaddafi-bd {
     background-color: #181818;
     padding: 30px;
 }
-.my-text{
+
+.my-text {
     text-align: center;
     color: #757575;
 }
